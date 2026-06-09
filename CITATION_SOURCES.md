@@ -13,8 +13,8 @@ This document lists all the directory networks and citation sources where **DM P
 
 ## Citation Sources (1 unique networks)
 
-- **Other** — 1138 listings
+- **Other** — 1139 listings
 
-Total citations: **1138**
+Total citations: **1139**
 
-Last updated: 2026-05-27
+Last updated: 2026-06-09
